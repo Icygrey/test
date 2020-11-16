@@ -1,0 +1,119 @@
+name: "my-website"                 
+output_dir: "."                      
+navbar:                             #设置导航栏。。。标题、icon等等。
+  title: "My Website"
+  left:
+    - icon: fa-home            
+      href: index.html
+    - text: "About" 
+      href: about.html
+  right:
+    - text: "External website" - href: www.google.com
+output:                                                   #
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html           
+    css: styles.css                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
